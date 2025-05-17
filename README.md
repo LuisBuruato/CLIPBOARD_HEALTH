@@ -1,4 +1,4 @@
-# Clipboard Health 
+### Clipboard Health 
 
 <p>
 Here at Clipboard Health, we provide staffing to long-term care facilities. The Centers for Medicaid and Medicare Services publish a quarterly report containing daily staffing data for all registered nursing homes in the U.S. 
@@ -14,4 +14,4 @@ Here at Clipboard Health, we provide staffing to long-term care facilities. The 
 Use the PBJ data and any other CMS data that you see fit to make a few recommendations to the Clipboard Health sales leadership team? 
 </p>
 
-     ![image](https://github.com/user-attachments/assets/594359a2-bb1b-48a6-a7d9-e5d3646638aa)
+https://biz.prlog.org/clipboardhealth/logo.png
