@@ -14,4 +14,4 @@ Here at Clipboard Health, we provide staffing to long-term care facilities. The 
 Use the PBJ data and any other CMS data that you see fit to make a few recommendations to the Clipboard Health sales leadership team? 
 </p>
 
-https://biz.prlog.org/clipboardhealth/logo.png
+[![](https://biz.prlog.org/clipboardhealth/logo.png)](http://https://biz.prlog.org/clipboardhealth/logo.png)
